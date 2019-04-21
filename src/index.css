@@ -12,3 +12,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+
+.Login
+{
+  width:50%;
+  margin-left: 25%;
+  border:1px solid black;
+  height:80vh;
+  background-color: rgb(134, 128, 128);
+ 
+}
+
+.app
+{
+  margin-left:20%;
+  width:60%;
+  margin-top:10%;
+  border: 1px solid black;
+  height:70vh;
+}
