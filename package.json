@@ -2,6 +2,7 @@
   "name": "hackathon",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ibushah.github.io/React-Simple-Quiz-App/",
   "dependencies": {
     "@material-ui/core": "^3.9.3",
     "react": "^16.8.6",
